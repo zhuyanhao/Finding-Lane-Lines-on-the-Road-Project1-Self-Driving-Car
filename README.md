@@ -17,11 +17,10 @@ The goals / steps of this project are the following:
 
     Original Image:
         ![alt text][org_image]
+        [org_image]: ./test_images/solidWhiteCurve.jpg
     Image with Lanes:
         ![alt text][mod_image]
-
-[org_image]: ./test_images/solidWhiteCurve.jpg
-[mod_image]: ./test_images_output/solidWhiteCurve.jpg
+        [mod_image]: ./test_images_output/solidWhiteCurve.jpg
 
 ---
 
