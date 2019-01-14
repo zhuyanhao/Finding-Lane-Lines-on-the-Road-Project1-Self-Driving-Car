@@ -15,12 +15,10 @@ The goals / steps of this project are the following:
 
 **Quick Example**
 
-    Original Image:
-        ![alt text][org_image]
-        [org_image]: ./test_images/solidWhiteCurve.jpg
-    Image with Lanes:
-        ![alt text][mod_image]
-        [mod_image]: ./test_images_output/solidWhiteCurve.jpg
+Original Image:
+![](./test_images/solidWhiteCurve.jpg)
+Image with Lanes:
+![](./test_images_output/solidWhiteCurve.jpg)
 
 ---
 
