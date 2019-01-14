@@ -1,21 +1,27 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
+## Udacity Self-Driving Car Engieer Nano Degree Project1
 ---
 
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
+  Canny edge detector, Guassian smoothing and Hough line transform and other techniques learned from Lesson1 are used to find lane lines in the test images/videos.
 * Reflect on your work in a written report
+  Shortcomings are listed with future improvements discussed.
+  
+---
 
+**Quick Example**
 
-[//]: # (Image References)
+    Original Image:
+        ![alt text][org_image]
+    Image with Lanes:
+        ![alt text][mod_image]
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[org_image]: ./test_images/solidWhiteCurve.jpg
+[mod_image]: ./test_images_output/solidWhiteCurve.jpg
 
 ---
 
